@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Sort(int)
+comment1.params=pos1\ pos2
+comment1.target=void\ swapNums(int,\ int)
+comment2.params=
+comment2.target=void\ printList()
+comment3.params=
+comment3.target=void\ originalSortNums()
+comment4.params=
+comment4.target=void\ insertionSort()
+comment5.params=
+comment5.target=void\ bubbleSort()
+numComments=6
